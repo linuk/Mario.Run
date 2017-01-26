@@ -1,5 +1,5 @@
-# P5MarioGame
-Mario rush game based on P5.js
+# Mario.Run
+Mario running game based on P5.js
 
 Platform game based on P5.js
 
